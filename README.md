@@ -5,6 +5,8 @@ This project focuses on developing a Supply Chain Management (SCM) Procurement D
 
 The project is designed to help procurement and supply chain managers make data-driven decisions and monitor procurement KPIs in real-time.
 
+![Dashboard Screenshot](https://github.com/maneeshmm/SCM-Procurement-Dashboard-2024/blob/main/Procurement%202024.png)
+
 ## 2. Objectives
 Track the procurement process, including pending and received purchase orders (POs).
 
