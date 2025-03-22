@@ -1,4 +1,4 @@
-# SCM - Procurement - Excel Dashboard 2024
+# SCM - Procurement Report - Excel Dashboard 2024
 
 ## 1. Project Overview
 This project focuses on developing a Supply Chain Management (SCM) Procurement Dashboard for the year 2024. The dashboard provides actionable insights into procurement operations, allowing for efficient tracking of purchase quantities, amounts, inventory movement, vendor performance, and overall procurement trends across the year.
